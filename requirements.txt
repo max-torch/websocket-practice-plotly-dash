@@ -1,0 +1,7 @@
+sounddevice
+numpy
+dash
+dash-extensions
+websockets
+plotly
+pandas
