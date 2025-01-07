@@ -12,3 +12,7 @@ The data that the server is sending is coming from a USB microphone, and is the 
 4. Start `dash_websocket_client.py` using python.
 5. Open the dash app in the browser using port 8050 of local host.
 6. Talk into your microphone.
+
+## Demo Video
+
+https://github.com/user-attachments/assets/7e2ce5ff-5e68-40f9-abd6-b98a5b74d912
